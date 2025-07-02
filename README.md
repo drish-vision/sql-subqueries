@@ -29,6 +29,4 @@ By completing this task, you gain confidence in:
 
 ---
 
-### 🧠 Tip
-Try modifying the queries with additional filters, different operators, or add a `HAVING` clause for more practice!
 
